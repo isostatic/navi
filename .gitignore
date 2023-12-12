@@ -109,3 +109,8 @@ venv.bak/
 /Testing.py
 /test_db.py
 /query_data.csv
+
+/navi.db
+/local
+/go
+/re
